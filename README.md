@@ -10,9 +10,11 @@
   
 - Apply red/blue/green color channel.
 </p>
-
+<br>
 <!-- Original image -->
+<p>Some outputs</p>
 
+<p>Original Image , Applying GreyScale</p>
 <div style="display:flex ;flex-direction: row">
  <span>
    <img src="./input images/colors.jpg" style="width: 40%; height: 40%;" alt="My cool logo"/>
@@ -21,19 +23,25 @@
 <img src="./output images/colors_grey.jpg" style="width: 40%; height: 40%;" alt="My cool logo"/>
     <span>
  </div>
-![Alt text](./input images/colors.jpg?raw=true "Title")
+    <br>
+<p>Original Image , Mirror Image</p>    
+<div style="display:flex ;flex-direction: row">
+ <span>
+   <img src="./input images/girl.jpg" style="width: 40%; height: 40%;" alt="My cool logo"/>
+  </span>
+  <span>
+<img src="/output images/mirror_girl.png" style="width: 40%; height: 40%;" alt="My cool logo"/>
+    <span>
+ </div>    
+  <br>
+<p>Original Image , Red Color channel</p>    
+<div style="display:flex ;flex-direction: row">
+ <span>
+   <img src="./input images/cat.jpg" style="width: 40%; height: 40%;" alt="My cool logo"/>
+  </span>
+  <span>
+<img src="./output images/red_cat.jpg" style="width: 40%; height: 40%;" alt="My cool logo"/>
+    <span>
+ </div>    
 
-<!-- Applying greyscale -->
-![Alt text](./output images/colors_grey.jpg?raw=true "Title")
 
-Original image \
-![Alt text](./input images/girl.jpg?raw=true "Title")
-
-Mirror image
-![Alt text](./output images/mirror_girl.png?raw=true "Title")
-
-Original image \
-![Alt text](./input images/cat.jpg?raw=true "Title")
-
-Applying red color channel
-![Alt text](./output images/red_cat.jpg?raw=true "Title")
